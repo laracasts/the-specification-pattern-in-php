@@ -1,6 +1,7 @@
 <?php
 
-class Customer {
+class Customer
+{
     protected $type;
 
     public function __construct($type)
