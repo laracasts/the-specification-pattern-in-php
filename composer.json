@@ -4,5 +4,8 @@
     },
     "autoload": {
         "classmap": ["src"]
+    },
+    "require": {
+        "illuminate/database": "^5.1"
     }
 }

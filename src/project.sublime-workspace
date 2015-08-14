@@ -1,0 +1,1984 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"newTeam",
+				"newTeamWithMemberCount"
+			],
+			[
+				"Member",
+				"MemberCurrentlyActive	(Team.php)"
+			],
+			[
+				"remain",
+				"remainingSpots"
+			],
+			[
+				"seeIn",
+				"seeInvitationFor"
+			],
+			[
+				"submit",
+				"submitfield	submitfield"
+			],
+			[
+				"episod",
+				"episodeChoices"
+			],
+			[
+				"Customer",
+				"CustomerIsGold	(CustomerIsGold.php)"
+			],
+			[
+				"Cu",
+				"CustomerRepository"
+			],
+			[
+				"getClien",
+				"getClientOriginalName"
+			],
+			[
+				"change",
+				"changeExtension	(GulpPaths.js)"
+			],
+			[
+				"text",
+				"textareafield	textareafield"
+			],
+			[
+				"src",
+				"srcFileName"
+			],
+			[
+				"defaut",
+				"defaultOutputFile"
+			],
+			[
+				"default",
+				"defaultOutputFile"
+			],
+			[
+				"wa",
+				"watchers"
+			],
+			[
+				"task",
+				"taskIndexes"
+			],
+			[
+				"se",
+				"selectedTaskIndex"
+			],
+			[
+				"gu",
+				"gutils"
+			],
+			[
+				"all",
+				"allCallsToCurrentTask"
+			],
+			[
+				"BusyDirec",
+				"BusyDirectorsQuery"
+			],
+			[
+				"sho",
+				"showCancelButton	(application.js)"
+			],
+			[
+				"confirmButton",
+				"confirmButtonText	(application.js)"
+			],
+			[
+				"func_get_",
+				"func_get_args"
+			],
+			[
+				"ALGO",
+				"ALGOLIA_APP_ID=1Z405N45FC	(.env)"
+			],
+			[
+				"redirect",
+				"redirectAndThankUser"
+			],
+			[
+				"foreig",
+				"foreignKey"
+			],
+			[
+				"pe",
+				"preferredBundle"
+			],
+			[
+				"browser",
+				"browserifyBundle"
+			],
+			[
+				"bro",
+				"browserifyBundle"
+			],
+			[
+				"watchiy",
+				"watchifyBundle"
+			],
+			[
+				"beforeA",
+				"beforeApplicationSetupCallbacks"
+			],
+			[
+				"beforeAppli",
+				"beforeApplicationSetup	(TestCase.php)"
+			],
+			[
+				"check",
+				"checkIfPlanWorksWithCoupon"
+			],
+			[
+				"exclud",
+				"exclude_plans"
+			],
+			[
+				"setStr",
+				"setStripeSubscriptionId	(StripeBilling.php)"
+			],
+			[
+				"setStripe",
+				"setStripeIsActive	(BillableTrait.php)"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"shipping",
+				"shipping_address_id"
+			],
+			[
+				"numb",
+				"numberAvailable"
+			],
+			[
+				"thums",
+				"thumbsUp"
+			],
+			[
+				"bot",
+				"bootstrapcss	bootstrapcss"
+			],
+			[
+				"User",
+				"UserUpgradedSubscription"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"update",
+				"updateSubscriptionHeading"
+			],
+			[
+				"favo",
+				"favoriteCount"
+			],
+			[
+				"set_active_if_",
+				"set_active_if_anywhere"
+			],
+			[
+				"foru",
+				"forumRepository"
+			],
+			[
+				"notSee",
+				"notSeePageIs"
+			],
+			[
+				"Inte",
+				"Integrated"
+			],
+			[
+				"Laravel",
+				"LaravelTestCase"
+			],
+			[
+				"Integrated",
+				"IntegratedException"
+			],
+			[
+				"package",
+				"packageConfig"
+			],
+			[
+				"curren",
+				"currentPage"
+			],
+			[
+				"seeJson",
+				"seeJsonEquals"
+			],
+			[
+				"PHPUnit",
+				"PHPUnitException"
+			],
+			[
+				"Regi",
+				"RegistersUsers"
+			],
+			[
+				"cr",
+				"credentials"
+			],
+			[
+				"second",
+				"secondCollection"
+			],
+			[
+				"first",
+				"firstCollection"
+			],
+			[
+				"time",
+				"timeIsUp"
+			],
+			[
+				"Catalog",
+				"CatalogStatistics"
+			],
+			[
+				"create",
+				"createClass	React.createClass"
+			],
+			[
+				"react",
+				"reacthtml	React Html Boilerplate"
+			],
+			[
+				"reac",
+				"reacthtml	React Html Boilerplate"
+			],
+			[
+				"get",
+				"getInitialState	React getInitialState"
+			],
+			[
+				"cra",
+				"createClass	React.createClass"
+			],
+			[
+				"creat",
+				"createClass	React.createClass"
+			],
+			[
+				"crea",
+				"createClass	ES6 React.createClass"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"createClas",
+				"createClass	React.createClass"
+			],
+			[
+				"creae",
+				"createClass	React.createClass"
+			],
+			[
+				"com",
+				"componentDidMount	React componentDidMount"
+			],
+			[
+				"c",
+				"createClass"
+			],
+			[
+				"s",
+				"scu	React: shouldComponentUpdate: fn(np, ns) { ... }"
+			],
+			[
+				"r",
+				"rcc	React: component skeleton"
+			],
+			[
+				"findB",
+				"findByNameOrId"
+			],
+			[
+				"find",
+				"findByNameOrId"
+			],
+			[
+				"Web",
+				"WebDriverBy"
+			],
+			[
+				"Integr",
+				"IntegrationTrait"
+			],
+			[
+				"Integ",
+				"IntegrationTest"
+			],
+			[
+				"Database",
+				"DatabaseTransactions"
+			],
+			[
+				"getTra",
+				"getTraitMethodsHavingAnnotation"
+			],
+			[
+				"trait",
+				"traitHasMethodWithAnnotation"
+			],
+			[
+				"Datab",
+				"DatabaseTransactions"
+			],
+			[
+				"foreach",
+				"foreach	@foreach"
+			],
+			[
+				"Integration",
+				"IntegrationWithLaravel"
+			],
+			[
+				"get_class",
+				"get_class_methods"
+			],
+			[
+				"get_ca",
+				"get_class_methods"
+			],
+			[
+				"page-with-",
+				"page-with-form-results"
+			],
+			[
+				"current",
+				"currentForm"
+			],
+			[
+				"call_user_func",
+				"call_user_func_array"
+			],
+			[
+				"getFavor",
+				"getFavoritesForUser"
+			],
+			[
+				"getRecent",
+				"getRecentContributionsForUser"
+			],
+			[
+				"een",
+				"eventGroupings"
+			],
+			[
+				"fetch",
+				"fetchRelationship"
+			],
+			[
+				"trig",
+				"triggerFakerOnAttributes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/Users/jeffreyway/Desktop/Stuff/specification-pattern/phpunit.xml",
+			"file_size": 0,
+			"file_write_time": 130840524510000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CustomersRepository.php",
+			"settings":
+			{
+				"buffer_size": 527,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"PHPUNIT",
+				"PHPUnit: Test current file"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"PHPUnit",
+				"PHPUnit: Run with params"
+			],
+			[
+				"PHPUNIt",
+				"PHPUnit: Run"
+			],
+			[
+				"snippet: php",
+				"Snippet: phpunit-xml"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"close al",
+				"File: Close All"
+			],
+			[
+				"delete",
+				"ANF: Delete Current File"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				":wq",
+				"Laravel Artisan: Queue: Work"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"stlus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"phpuni",
+				"PHPUnit: Run Tests"
+			],
+			[
+				"phpun",
+				"PHPUnit: Run Tests"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"phpunit",
+				"PHPUnit: Run Tests"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"fqcn",
+				"PHPCompanion:Expand Fully Qualified Class Name"
+			],
+			[
+				"companion",
+				"PHPCompanion:Expand Fully Qualified Class Name"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coffee",
+				"Set Syntax: Gulpfile Coffee"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"browser",
+				"View In Browser"
+			],
+			[
+				"ctags",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"remove ap",
+				"Package Control: Remove Package"
+			],
+			[
+				"finder",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"phpcop",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"select t",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"live relo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"delte",
+				"ANF: Delete Current File"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"snippet: error",
+				"Snippet: validation-errors"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tbas",
+				"View: Toggle Tabs"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"live reo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"vrowser",
+				"View In Browser"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"tags",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"live reoad",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"iew",
+				"View In Browser"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet rea",
+				"Snippet: React Html Boilerplate"
+			],
+			[
+				"liverelo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"snippet reac",
+				"Snippet: React Script Tags"
+			],
+			[
+				"snippet: c",
+				"Snippet: @foreach"
+			],
+			[
+				"plug",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"plugin",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"symbol",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sapces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spaces",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"rebuid",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"clear",
+				"PHP Code Sniffer: Clear sniffer marks"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"new file",
+				"ANF: New File"
+			],
+			[
+				"repar",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"reparse",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"docb",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"docbl",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"dock",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"sniff",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"phpcs",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"kacinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"tag",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"high",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"highl",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"trailin",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"edlete",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pacremove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"packagere",
+				"Package Control: Remove Package"
+			],
+			[
+				"package contr",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"phpmd",
+				"PHP Code Sniffer: Clear sniffer marks"
+			],
+			[
+				"hpcs",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 429.0,
+		"history":
+		[
+			"os.environ['PATH']",
+			"import os",
+			"clear",
+			"${project_path}",
+			"$project_path;",
+			"sublime.log_commands(True)",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jeffreyway/Desktop/Stuff/specification-pattern",
+		"/Users/jeffreyway/Desktop/Stuff/specification-pattern/src"
+	],
+	"file_history":
+	[
+		"/Users/jeffreyway/Desktop/Stuff/specification-pattern/src/CustomersRepository.php",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/User/snippest/phpunit-xml.sublime-snippet",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jeffreyway/Desktop/Stuff/specification-pattern/src/CustomerIsGold.php",
+		"/Users/jeffreyway/Desktop/Stuff/specification-pattern/vendor/illuminate/database/Query/Builder.php",
+		"/Users/jeffreyway/Desktop/Stuff/specification-pattern/vendor/illuminate/database/Eloquent/Model.php",
+		"/Users/jeffreyway/Desktop/Stuff/specification-pattern/src/Customer.php",
+		"/Users/jeffreyway/Desktop/Stuff/specification-pattern/index.php",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jeffreyway/Desktop/Stuff/specification-pattern/tests/CustomersRepositoryTest.php",
+		"/Users/jeffreyway/Desktop/Stuff/specification-pattern/tests/CustomerIsGoldTest.php",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/SimplePHPUnit/SimplePHPUnit.sublime-settings",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/Colorsublime-Themes/Facebook.tmTheme",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/ShellCommand/ShellCommand.sublime-settings",
+		"/Users/jeffreyway/Desktop/Stuff/specification-pattern/phpunit.xml",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/User/phpunit-xml.sublime-snippet",
+		"/Users/jeffreyway/code/casts-laravel-5/Forum/Reply.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Http/Controllers/Forum/RepliesController.php",
+		"/Users/jeffreyway/code/casts-laravel-5/Forum/Repositories/ForumRepository.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Registration/SignsForumMemberUp.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Registration/SignsTeamMemberUp.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Registration/SignsNewMemberUp.php",
+		"/Users/jeffreyway/code/casts-laravel-5/resources/views/subscriptions/partials/_footer.blade.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Team.php",
+		"/Users/jeffreyway/code/casts-laravel-5/tests/integration/models/TeamTest.php",
+		"/Users/jeffreyway/code/casts-laravel-5/resources/views/emails/user/team-invitation.blade.php",
+		"/Users/jeffreyway/code/casts-laravel-5/storage/logs/laravel-2015-08-14.log",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Http/Controllers/BusinessSubscriptionsController.php",
+		"/Users/jeffreyway/code/casts-laravel-5/resources/views/subscriptions/business/show.blade.php",
+		"/Users/jeffreyway/code/casts-laravel-5/resources/views/subscriptions/business/create.blade.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Http/Controllers/SubscriptionsController.php",
+		"/Users/jeffreyway/code/casts-laravel-5/resources/views/subscriptions/create.blade.php",
+		"/Users/jeffreyway/code/casts-laravel-5/database/migrations/2015_08_13_191255_create_invitations_table.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Http/Controllers/Controller.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Invitation.php",
+		"/Users/jeffreyway/code/casts-laravel-5/.env",
+		"/Users/jeffreyway/code/casts-laravel-5/tests/integration/models/InvitationTest.php",
+		"/Users/jeffreyway/code/casts-laravel-5/tests/factories/all.php",
+		"/Users/jeffreyway/code/casts-laravel-5/node_modules/gulp/node_modules/gulp-util/lib/isNull.js",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Mailers/Mailer.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/User.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Billing/BillableTrait.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Exceptions/MemberCurrentlyActive.php",
+		"/Users/jeffreyway/code/casts-laravel-5/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php",
+		"/Users/jeffreyway/code/casts-laravel-5/vendor/laracasts/integrated/src/Database/Connection.php",
+		"/Users/jeffreyway/code/casts-laravel-5/vendor/laravel/framework/src/Illuminate/Support/Collection.php",
+		"/Users/jeffreyway/code/casts-laravel-5/tests/integration/models/ReplyTest.php",
+		"/Users/jeffreyway/code/casts-laravel-5/tests/logs/output.html",
+		"/Users/jeffreyway/code/casts-laravel-5/tests/functional/controllers/BusinessSubscriptionsControllerTest.php",
+		"/Users/jeffreyway/code/casts-laravel-5/database/migrations/2013_09_09_181246_create_users_table.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Http/routes.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Providers/EventServiceProvider.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Registration/TeamMemberSignUp.php",
+		"/Users/jeffreyway/code/casts-laravel-5/storage/logs/laravel-2015-08-13.log",
+		"/Users/jeffreyway/code/casts-laravel-5/resources/views/subscriptions/partials/_header.blade.php",
+		"/Users/jeffreyway/code/casts-laravel-5/public/js/billing.js",
+		"/Users/jeffreyway/code/casts-laravel-5/resources/views/subscriptions/partials/_profile.blade.php",
+		"/Users/jeffreyway/code/casts-laravel-5/vendor/stripe/stripe-php/lib/Stripe/InvoiceItem.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Billing/BillableInterface.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Handlers/Events/UserEventHandler.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Mailers/UserMailer.php",
+		"/Users/jeffreyway/code/casts-laravel-5/resources/views/emails/user/welcomeTeamMember.blade.php",
+		"/Users/jeffreyway/code/casts-laravel-5/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Users/jeffreyway/code/casts-laravel-5/vendor/illuminate/html/helpers.php",
+		"/Users/jeffreyway/code/casts-laravel-5/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/Users/jeffreyway/code/casts-laravel-5/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/Users/jeffreyway/code/casts-laravel-5/resources/views/layouts/partials/_navbar.blade.php",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/jeffreyway/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/jeffreyway/code/casts-laravel-5/node_modules/laravel-elixir/node_modules/gulp-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/184_test_control_flow_if/expected_output.css",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Services/CreateTeamMember.php",
+		"/Users/jeffreyway/Desktop/interactive-rebasing-lesson/Job.php",
+		"/Users/jeffreyway/Desktop/interactive-rebasing-lesson/.git/rebase-merge/git-rebase-todo",
+		"/Users/jeffreyway/Desktop/interactive-rebasing-lesson/Person.php",
+		"/Users/jeffreyway/Desktop/specifications/CustomerSpecification.php",
+		"/Users/jeffreyway/Desktop/git-rebase/index.txt",
+		"/Users/jeffreyway/Desktop/git-rebase/.git/rebase-merge/git-rebase-todo",
+		"/Users/jeffreyway/Desktop/presentation/presentation.md",
+		"/Users/jeffreyway/Desktop/presentation/catch-breath.gif",
+		"/Users/jeffreyway/Desktop/testing-elixir/public/css/one.css",
+		"/Users/jeffreyway/Desktop/testing-elixir/gulpfile.js",
+		"/Users/jeffreyway/Desktop/testing-elixir/public/js/two-compiled.js.map",
+		"/Users/jeffreyway/Desktop/testing-elixir/node_modules/laravel-elixir/tasks/scripts.js",
+		"/Users/jeffreyway/Desktop/testing-elixir/public/build/rev-manifest.json",
+		"/Users/jeffreyway/Desktop/testing-elixir/public/js/one.js",
+		"/Users/jeffreyway/Desktop/testing-elixir/public/js/two.js",
+		"/Users/jeffreyway/code/casts-laravel-5/resources/views/forum/replies/partials/reply.blade.php",
+		"/Users/jeffreyway/code/casts-laravel-5/resources/views/forum/replies/show.blade.php",
+		"/Users/jeffreyway/code/casts-laravel-5/storage/framework/views/a911c90639097788ea1e74f320676c7f",
+		"/Users/jeffreyway/code/casts-laravel-5/tests/TestCase.php",
+		"/Users/jeffreyway/code/casts-laravel-5/tests/functional/controllers/ForumControllerTest.php",
+		"/Users/jeffreyway/code/casts-laravel-5/tests/functional/controllers/ProfilesControllerTest.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/Http/Controllers/Forum/ForumController.php",
+		"/Users/jeffreyway/code/casts-laravel-5/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/Users/jeffreyway/code/casts-laravel-5/app/helpers/misc_helpers.php",
+		"/Users/jeffreyway/code/casts-laravel-5/Forum/Forms/ReplyForm.php",
+		"/Users/jeffreyway/Desktop/gridframework-lesson/public/css/app.css",
+		"/Users/jeffreyway/Desktop/gridframework-lesson/node_modules/laravel-elixir-stylus/index.js",
+		"/Users/jeffreyway/code/casts-laravel-5/phpunit.xml",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/app/Listeners/Email.php",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/app/Events/UserHasRegistered.php",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/config/database.php",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/app/User.php",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/.env",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/app/Providers/EventServiceProvider.php",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/vendor/laravel/framework/src/Illuminate/Contracts/Broadcasting/ShouldBroadcast.php",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/vendor/laravel/framework/src/Illuminate/Queue/SerializesModels.php",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/app/Http/routes.php",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/resources/views/welcome.blade.php",
+		"/Users/jeffreyway/Desktop/broadcasting-to-pusher/vendor/laravel/framework/src/Illuminate/Events/EventServiceProvider.php",
+		"/Users/jeffreyway/code/project-flyer/resources/views/layout.blade.php",
+		"/Users/jeffreyway/code/project-flyer/public/css/app.css",
+		"/Users/jeffreyway/code/project-flyer/app/Http/Controllers/FlyersController.php",
+		"/Users/jeffreyway/code/project-flyer/composer.json",
+		"/Users/jeffreyway/code/project-flyer/app/helpers.php",
+		"/Users/jeffreyway/code/project-flyer/gulpfile.js",
+		"/Users/jeffreyway/code/project-flyer/resources/assets/sass/app.scss",
+		"/Users/jeffreyway/Desktop/elixir-3-testing/public/css/app.css",
+		"/Users/jeffreyway/Desktop/elixir-3-testing/node_modules/laravel-elixir/Config.js",
+		"/Users/jeffreyway/Desktop/elixir-3-testing/resources/assets/sass/another.scss",
+		"/Users/jeffreyway/Desktop/elixir-3-testing/public/css/all.css",
+		"/Users/jeffreyway/Desktop/elixir-3-testing/package.json",
+		"/Users/jeffreyway/Desktop/elixir-3-testing/resources/assets/sass/app.scss"
+	],
+	"find":
+	{
+		"height": 76.0
+	},
+	"find_in_files":
+	{
+		"height": 185.0,
+		"where_history":
+		[
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/code/casts-laravel-5/Forum",
+			"/Users/jeffreyway/Desktop/broadcasting-to-pusher/vendor",
+			"/Users/jeffreyway/code/casts-laravel-5/app/Http/Filters",
+			"/Users/jeffreyway/Desktop/testing-new-elixir/node_modules/laravel-elixir",
+			"/Users/jeffreyway/code/casts-laravel-5/app",
+			"/Users/jeffreyway/code/casts-laravel-5/resources",
+			"/Users/jeffreyway/code/casts-laravel-5/resources/views",
+			"/Users/jeffreyway/code/casts-laravel-5/resources",
+			"/Users/jeffreyway/code/casts-laravel-5/app",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/Desktop/new-elixir/elixir/tasks",
+			"/Users/jeffreyway/Desktop/new-elixir/elixir",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/code/casts-laravel-5/resources",
+			"/Users/jeffreyway/code/casts-laravel-5/app",
+			"/Users/jeffreyway/code/casts-laravel-5/public",
+			"/Users/jeffreyway/code/casts-laravel-5/resources/assets",
+			"/Users/jeffreyway/code/casts-laravel-5/public",
+			"/Users/jeffreyway/code/casts-laravel-5/public/js",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/Desktop/coupon-lesson",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/code/casts-laravel-5/resources",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/code/casts-laravel-5/resources",
+			"/Users/jeffreyway/code/casts-laravel-5/app",
+			"/Users/jeffreyway/code/casts-laravel-5/resources/assets",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/code/casts-laravel-5/app",
+			"/Users/jeffreyway/code/casts-laravel-5/storage",
+			"/Users/jeffreyway/code/casts-laravel-5/Forum",
+			"/Users/jeffreyway/code/casts-laravel-5/Shop",
+			"/Users/jeffreyway/code/casts-laravel-5/app",
+			"/Users/jeffreyway/code/casts-laravel-5/Forum",
+			"/Users/jeffreyway/code/casts-laravel-5/app",
+			"/Users/jeffreyway/code/casts-laravel-5/resources/views",
+			"/Users/jeffreyway/code/casts-laravel-5/resources",
+			"/Users/jeffreyway/code/casts-laravel-5/app",
+			"/Users/jeffreyway/code/casts-laravel-5/tests/functional",
+			"/Users/jeffreyway/code/casts-laravel-5/tests/functional/controllers",
+			"/Users/jeffreyway/code/casts-laravel-5/tests",
+			"/Users/jeffreyway/code/laravel-elixir,-node_modules/*",
+			"/Users/jeffreyway/code/laravel-elixir,-*.node_modules",
+			"/Users/jeffreyway/code/laravel-elixir/ingredients",
+			"/Users/jeffreyway/code/laravel-elixir",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/code/casts-laravel-5/app/Http/Controllers/Shop",
+			"/Users/jeffreyway/code/casts-laravel-5/app",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/Desktop/mass-settings",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/Desktop/Issue",
+			"/Users/jeffreyway/Desktop/intermediate-laravel/vendor",
+			"/Users/jeffreyway/Desktop/intermediate-laravel",
+			"/Users/jeffreyway/Desktop/intermediate-laravel/vendor",
+			"/Users/jeffreyway/Desktop/intermediate-laravel",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/code/casts-laravel-5/public",
+			"/Users/jeffreyway/code/casts-laravel-5/Forum",
+			"/Users/jeffreyway/code/open-source/Integrated/Integrated",
+			"/Users/jeffreyway/code/intermediate-laravel-series",
+			"/Users/jeffreyway/code/open-source/Integrated/vendor",
+			"/Users/jeffreyway/code/casts-laravel-5/app",
+			"/Users/jeffreyway/code/casts-laravel-5/resources/assets",
+			"/Users/jeffreyway/code/casts-laravel-5/",
+			"/Users/jeffreyway/code/casts-laravel-5/app/",
+			"/Users/jeffreyway/code/casts-laravel-5/app/Http",
+			"/Users/jeffreyway/code/casts-laravel-5/app/Http/Controllers",
+			"/Users/jeffreyway/code/casts-laravel-5/app",
+			"/Users/jeffreyway/Desktop/integration-tester-app/vendor/instaclick/php-webdriver",
+			"/Users/jeffreyway/Desktop/integration-tester-app/vendor",
+			"/Users/jeffreyway/code/casts-laravel-5/resources",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			"/Users/jeffreyway/Desktop/activity-lesson",
+			"/Users/jeffreyway/code/casts-laravel-5",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"customers",
+			"complete",
+			"snippet",
+			"builder",
+			"right",
+			"destroy",
+			"Joe",
+			"posts",
+			"002B36",
+			"hello",
+			"add",
+			"invitation",
+			"currently",
+			"has_a_man",
+			"manager",
+			"inviteToTeam",
+			"method",
+			"newTeam",
+			"overrides",
+			"count",
+			"private",
+			"public",
+			"expiresBeforeMember",
+			"remainingSpots",
+			"protected",
+			"isMaxedOut",
+			"remainingSpots",
+			"all",
+			"addMany",
+			"model",
+			"rollback",
+			"local",
+			"that",
+			"invoice",
+			"account",
+			"looks",
+			"maanger",
+			"code",
+			"codde",
+			"send",
+			"redirectHomeWithConfirmationMessage",
+			"userProvidedBillingInfoButChoseNoSubscriptionPlan",
+			"ownerHasAlreadyCreatedATeam",
+			"calculateTeamSize",
+			"inviteMember",
+			"can",
+			"we",
+			"redirectBackWithErrors",
+			"whereCode",
+			"$servie",
+			"welcomeTeamMember",
+			"CreateTeamMember",
+			"cancel",
+			"it_cancels_an_invitation",
+			"persisted",
+			"Team",
+			"code",
+			"invitation",
+			"seeMemberIsDeactivated",
+			"delete_team_member_path",
+			"email",
+			"seeInvitationFor",
+			"seeInvitationWasCanceled",
+			"it_removes_a_member_from_a_team",
+			"seeInvitationWasCanceled",
+			"seeMemberExists",
+			"seeMemberIsDeactivated",
+			"refresh",
+			"addTeamMember",
+			"Auth",
+			"addTeamMember",
+			"ownerHasAlreadyCreatedATeam",
+			"getNewTeamUser",
+			"Sent",
+			"200",
+			"Input",
+			"get",
+			"text",
+			"this",
+			"make",
+			"true",
+			"jsdocs_param_description",
+			"jsdocs_return_description",
+			"member",
+			"invited",
+			"getPlans",
+			"Invitation",
+			"coupon",
+			"Coupon",
+			"invitation",
+			"Invitation",
+			"invitation",
+			"e",
+			"recipient",
+			"admin",
+			"Team member add",
+			"addTeamMember",
+			"searchForUserByEmail",
+			"Active",
+			"username",
+			"members",
+			"owner",
+			"user",
+			"User",
+			"accepted",
+			"refresh",
+			"filterCouponCode",
+			"signup",
+			"redirectAndThankUser",
+			"redirectBackWithErrors",
+			"redirectAndThankUser",
+			"getSignupStrategy",
+			"subscription",
+			"SignsForumMemberUp",
+			"createNonSubscriptionAccount",
+			"userOnlyWantsForumAccess",
+			"Exception",
+			"getSignupStrategy",
+			"SignsTeamMemberUp",
+			"createNonSubscriptionAccount",
+			"home",
+			"flash",
+			"successMessage",
+			"createNonSubscriptionAccount",
+			"createTeamMemberSubscription",
+			"getSignupStrategy",
+			"invitation",
+			"User"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"apply",
+			"### ",
+			"",
+			"## ",
+			"",
+			"##",
+			"use Illuminate\\Foundation\\Testing\\DatabaseTransactions;",
+			"extends TestCase",
+			"see",
+			",",
+			", "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jeffreyway/Desktop/Stuff/specification-pattern/phpunit.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CustomersRepository.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 491.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src/CustomerIsGold.php"
+			],
+			[
+				"customer.php",
+				"src/Customer.php"
+			],
+			[
+				"model.php",
+				"vendor/illuminate/database/Eloquent/Model.php"
+			],
+			[
+				"builder",
+				"vendor/illuminate/database/Query/Builder.php"
+			],
+			[
+				"query/bui",
+				"vendor/illuminate/database/Query/Builder.php"
+			],
+			[
+				"model",
+				"vendor/illuminate/database/Eloquent/Model.php"
+			],
+			[
+				"customerrepos",
+				"src/CustomersRepository.php"
+			],
+			[
+				"customerisgold",
+				"src/CustomerIsGold.php"
+			],
+			[
+				"customerisgoldtest",
+				"tests/CustomerIsGoldTest.php"
+			],
+			[
+				"customerrepo",
+				"src/CustomersRepository.php"
+			],
+			[
+				"customer",
+				"tests/CustomersRepositoryTest.php"
+			],
+			[
+				"index.php",
+				"index.php"
+			],
+			[
+				"custom",
+				"src/CustomersRepository.php"
+			],
+			[
+				"customers",
+				"src/CustomersRepository.php"
+			],
+			[
+				"ustomer",
+				"src/CustomersRepository.php"
+			],
+			[
+				"customer.h",
+				"src/Customer.php"
+			],
+			[
+				"account",
+				"resources/views/settings/account.blade.php"
+			],
+			[
+				"add-card",
+				"resources/views/settings/add-card.blade.php"
+			],
+			[
+				"credit-ca",
+				"resources/views/settings/partials/credit-card-form.blade.php"
+			],
+			[
+				"account.blade",
+				"resources/views/settings/account.blade.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"settings/master",
+				"resources/views/settings/master.blade.php"
+			],
+			[
+				"forumrepo",
+				"Forum/Repositories/ForumRepository.php"
+			],
+			[
+				"repliescon",
+				"app/Http/Controllers/Forum/RepliesController.php"
+			],
+			[
+				"reply.php",
+				"Forum/Reply.php"
+			],
+			[
+				"replytest",
+				"tests/integration/models/ReplyTest.php"
+			],
+			[
+				"reply",
+				"Forum/Reply.php"
+			],
+			[
+				"i/s/collec",
+				"vendor/laravel/framework/src/Illuminate/Support/Collection.php"
+			],
+			[
+				"i/s/c",
+				"vendor/laracasts/integrated/src/Database/Connection.php"
+			],
+			[
+				"ill/data/collec",
+				"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php"
+			],
+			[
+				"invitatio",
+				"tests/integration/models/InvitationTest.php"
+			],
+			[
+				"team",
+				"app/Team.php"
+			],
+			[
+				"factories/a",
+				"tests/factories/all.php"
+			],
+			[
+				"in",
+				"node_modules/gulp/node_modules/gulp-util/lib/isNull.js"
+			],
+			[
+				"invi",
+				"app/Invitation.php"
+			],
+			[
+				"businesssub",
+				"app/Http/Controllers/BusinessSubscriptionsController.php"
+			],
+			[
+				"subscriptionscon",
+				"app/Http/Controllers/SubscriptionsController.php"
+			],
+			[
+				"business/show",
+				"resources/views/subscriptions/business/show.blade.php"
+			],
+			[
+				"invitation",
+				"app/Invitation.php"
+			],
+			[
+				"subscriptions/create",
+				"resources/views/subscriptions/create.blade.php"
+			],
+			[
+				"invitat",
+				"app/Invitation.php"
+			],
+			[
+				"create_invi",
+				"database/migrations/2015_08_13_191255_create_invitations_table.php"
+			],
+			[
+				"mailer",
+				"app/Mailers/Mailer.php"
+			],
+			[
+				"invita",
+				"app/Invitation.php"
+			],
+			[
+				"welcome",
+				"resources/views/emails/user/welcomeTeamMember.blade.php"
+			],
+			[
+				"team.",
+				"app/Team.php"
+			],
+			[
+				"business",
+				"app/Http/Controllers/BusinessSubscriptionsController.php"
+			],
+			[
+				"businesss",
+				"app/Http/Controllers/BusinessSubscriptionsController.php"
+			],
+			[
+				"bus/show",
+				"resources/views/subscriptions/business/show.blade.php"
+			],
+			[
+				"subscriptiosncon",
+				"app/Http/Controllers/SubscriptionsController.php"
+			],
+			[
+				"business/create",
+				"resources/views/subscriptions/business/create.blade.php"
+			],
+			[
+				"billable",
+				"app/Billing/BillableTrait.php"
+			],
+			[
+				"busines",
+				"app/Http/Controllers/BusinessSubscriptionsController.php"
+			],
+			[
+				"subscriptios/show",
+				"resources/views/subscriptions/business/show.blade.php"
+			],
+			[
+				"team.h",
+				"app/Team.php"
+			],
+			[
+				"_footer.blade",
+				"resources/views/subscriptions/partials/_footer.blade.php"
+			],
+			[
+				"subscription",
+				"app/Http/Controllers/SubscriptionsController.php"
+			],
+			[
+				"signsnew",
+				"app/Registration/SignsNewMemberUp.php"
+			],
+			[
+				"usereve",
+				"app/Handlers/Events/UserEventHandler.php"
+			],
+			[
+				"createteam",
+				"app/Services/CreateTeamMember.php"
+			],
+			[
+				"usereventhandlr",
+				"app/Handlers/Events/UserEventHandler.php"
+			],
+			[
+				"eventser",
+				"app/Providers/EventServiceProvider.php"
+			],
+			[
+				"taem",
+				"app/Team.php"
+			],
+			[
+				"billablet",
+				"app/Billing/BillableTrait.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"sub/_hae",
+				"resources/views/subscriptions/partials/_header.blade.php"
+			],
+			[
+				"sub/_footer",
+				"resources/views/subscriptions/partials/_footer.blade.php"
+			],
+			[
+				"billing.",
+				"public/js/billing.js"
+			],
+			[
+				"_profile.blade",
+				"resources/views/subscriptions/partials/_profile.blade.php"
+			],
+			[
+				"business/",
+				"resources/views/subscriptions/business/show.blade.php"
+			],
+			[
+				"welcometeam",
+				"resources/views/emails/user/welcomeTeamMember.blade.php"
+			],
+			[
+				"usereventha",
+				"app/Handlers/Events/UserEventHandler.php"
+			],
+			[
+				"eventserviceprovider",
+				"app/Providers/EventServiceProvider.php"
+			],
+			[
+				"routes.php",
+				"app/Http/routes.php"
+			],
+			[
+				"collection",
+				"vendor/laravel/framework/src/Illuminate/Support/Collection.php"
+			],
+			[
+				"invit",
+				"app/Invitation.php"
+			],
+			[
+				"create_users_table",
+				"database/migrations/2013_09_09_181246_create_users_table.php"
+			],
+			[
+				"helpers.php",
+				"vendor/laravel/framework/src/Illuminate/Support/helpers.php"
+			],
+			[
+				"billabletra",
+				"app/Billing/BillableTrait.php"
+			],
+			[
+				"navbar.blade",
+				"resources/views/layouts/partials/_navbar.blade.php"
+			],
+			[
+				"signstea",
+				"app/Registration/SignsTeamMemberUp.php"
+			],
+			[
+				"subsccon",
+				"app/Http/Controllers/SubscriptionsController.php"
+			],
+			[
+				"signs",
+				"app/Registration/SignsTeamMemberUp.php"
+			],
+			[
+				"create_inv",
+				"database/migrations/2015_08_13_191255_create_invitations_table.php"
+			],
+			[
+				"teammeb",
+				"app/Registration/TeamMemberSignUp.php"
+			],
+			[
+				"subsc/_footer",
+				"resources/views/subscriptions/partials/_footer.blade.php"
+			],
+			[
+				"subsc/create",
+				"resources/views/subscriptions/create.blade.php"
+			],
+			[
+				"invia",
+				"app/Invitation.php"
+			],
+			[
+				"businesssubsc",
+				"app/Http/Controllers/BusinessSubscriptionsController.php"
+			],
+			[
+				"subscriptions/_footer",
+				"resources/views/subscriptions/partials/_footer.blade.php"
+			],
+			[
+				"invitati",
+				"app/Invitation.php"
+			],
+			[
+				"invite",
+				"vendor/stripe/stripe-php/lib/Stripe/InvoiceItem.php"
+			],
+			[
+				"createteammeber",
+				"app/Services/CreateTeamMember.php"
+			],
+			[
+				"usereventhandler",
+				"app/Handlers/Events/UserEventHandler.php"
+			],
+			[
+				"events",
+				"app/Providers/EventServiceProvider.php"
+			],
+			[
+				"admin/users",
+				"app/Http/Controllers/Admin/UsersController.php"
+			],
+			[
+				"series",
+				"app/Series.php"
+			],
+			[
+				"episode",
+				"app/Episode.php"
+			],
+			[
+				"routes.ph",
+				"app/Http/routes.php"
+			],
+			[
+				"episode.",
+				"app/Episode.php"
+			],
+			[
+				"episodes/create",
+				"resources/views/admin/episodes/create.blade.php"
+			],
+			[
+				"catalg",
+				"app/Catalog.php"
+			],
+			[
+				"pagescon",
+				"app/Http/Controllers/PagesController.php"
+			],
+			[
+				"shared/cs",
+				"node_modules/laravel-elixir/tasks/shared/Css.js"
+			],
+			[
+				"sass.js",
+				"node_modules/laravel-elixir/tasks/sass.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"package.json",
+				"package.json"
+			],
+			[
+				"config.js",
+				"node_modules/laravel-elixir/Config.js"
+			],
+			[
+				"index.js",
+				"node_modules/laravel-elixir/index.js"
+			],
+			[
+				"config.",
+				"node_modules/laravel-elixir/Config.js"
+			],
+			[
+				"notificat",
+				"node_modules/laravel-elixir/Notification.js"
+			],
+			[
+				"notif",
+				"node_modules/laravel-elixir/Notification.js"
+			],
+			[
+				"notification",
+				"node_modules/laravel-elixir/Notification.js"
+			],
+			[
+				"notification.js",
+				"node_modules/laravel-elixir/Notification.js"
+			],
+			[
+				"version",
+				"node_modules/laravel-elixir/tasks/version.js"
+			],
+			[
+				"package.jo",
+				"package.json"
+			],
+			[
+				"logger.js",
+				"Logger.js"
+			],
+			[
+				"customeris",
+				"CustomerIsGold.php"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"version.js",
+				"node_modules/laravel-elixir/tasks/version.js"
+			],
+			[
+				"scripts.js",
+				"node_modules/laravel-elixir/tasks/scripts.js"
+			],
+			[
+				"lessonscon",
+				"app/Http/Controllers/LessonsController.php"
+			],
+			[
+				"catalog",
+				"app/Catalog.php"
+			],
+			[
+				"flyer",
+				"app/Flyer.php"
+			],
+			[
+				"flyer.php",
+				"app/Flyer.php"
+			],
+			[
+				"flyerscon",
+				"app/Http/Controllers/FlyersController.php"
+			],
+			[
+				"flyers/show",
+				"resources/views/flyers/show.blade.php"
+			],
+			[
+				"photo.php",
+				"app/Photo.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "url",
+		"selected_items":
+		[
+			[
+				"url",
+				"url"
+			],
+			[
+				"refresh",
+				"refresh"
+			],
+			[
+				"home",
+				"home"
+			],
+			[
+				"flash",
+				"flash"
+			],
+			[
+				"sortByDesc",
+				"sortByDesc"
+			],
+			[
+				"elixir",
+				"elixir"
+			],
+			[
+				"lesson_",
+				"get_lesson_thumbnail_styling"
+			],
+			[
+				"getlessonthumb",
+				"get_lesson_thumbnail_styling"
+			],
+			[
+				"somethingS",
+				"somethingSpecial"
+			],
+			[
+				"something",
+				"somethingSpecial"
+			],
+			[
+				"somethingSpeci",
+				"somethingSpecial"
+			],
+			[
+				"index",
+				"Index"
+			],
+			[
+				"array_exe",
+				"array_except"
+			],
+			[
+				"bcrypt",
+				"bcrypt"
+			]
+		],
+		"width": 740.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
